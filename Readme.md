@@ -38,3 +38,7 @@ Verify that the plan makes sense, and then run the following to apply
 
 Then you should be ready to deploy the site into the bucket `s3://site_domain`
 
+## To dos
+* Add CI
+* Store secret in AWS Parameter Store or Secrets Manager
+
